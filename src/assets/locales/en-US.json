@@ -1,0 +1,12 @@
+{
+  "Task": "Task",
+  "GO": "GO",
+  "goto": "You can go to the ",
+  "user todos": "{{- name}} ",
+  "page": "todos page.",
+  "home": "HOME",
+  "about": "ABOUT",
+  "login": "LOGIN",
+  "dash": "DASH",
+  "todo": "TODOS"
+}
